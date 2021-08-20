@@ -1,8 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 
-webhook_url = 'https://discord.com/api/webhooks/876773577427402752/Rw-CsX_Ix7NxIlQAo6NyTCmK06IDgush6ocwvt768iNrnaEPeW-z7NC6pvbjam6DXlMc'
-
 for i in range(8730, 10100):
 
     url = f'https://www.bmeme.hu/post/{i}'
